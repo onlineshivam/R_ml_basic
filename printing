@@ -1,0 +1,3 @@
+$ R
+myString <- "Hello, World!"
+print ( myString )
